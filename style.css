@@ -1,0 +1,17 @@
+.background{
+    background-color: #feeae9;
+}
+
+
+   button:hover{
+    -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  } 
+
+  .hov:hover{
+      border:1px solid skyblue;
+      background-color: teal;
+      transform: scale(1.0);
+  }
+ 
